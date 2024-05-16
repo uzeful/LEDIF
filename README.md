@@ -12,4 +12,5 @@ This demo is implemented by Yu Zhang (uzeful@163.com) and Wenhao Xiang.
 Usage:
 
 LEDIF_Main_Final.m ----- Implementation of the local extreme driven image fusion method.
+
 LEDIFilter.m ----------- Local extreme driven image filter.
