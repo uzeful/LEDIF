@@ -1,5 +1,5 @@
 *************************************************************************************************************************************************************************
-This package contains the source code and dataset used in the following paper:
+This repository contains the source code and datasets used in the following paper:
 
 "Wenhao Xiang, Jianjun Shen, Li Zhang and Yu Zhang*. Infrared and visual image fusion based on a local-extrema-driven image filter, Sensors, 2024, 24 (7), 2271."
 
